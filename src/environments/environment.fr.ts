@@ -8,7 +8,7 @@ export const environment = {
     env: {
       name: 'dev'
     },
-    language: 'en'
+    language: 'fr'
   }
 };
 

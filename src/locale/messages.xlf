@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1e9a15da9ecb3574be8b466c285ed4aca1d89e4b" datatype="html">
+        <source>
+    Welcome to <x id="INTERPOLATION" equiv-text="{{ title }}"/>!
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit><trans-unit id="51a5041f594ec6f4108af4455a223a7010bfcb9e" datatype="html">
+        <source>
+    Base message:
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit><trans-unit id="ce8745b2951bed598269de8481d1ac8777aabb00" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ messagebase }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit><trans-unit id="702158336aaf3fa2e98fd2d12decdc6c0aad2b5f" datatype="html">
+        <source>
+    Translated message:
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit><trans-unit id="3ceb558662008cebcb05922ca9250609d343c024" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ messageTranslated }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit><trans-unit id="d234f48b406eb121002281785209a5eb6cb8a30d" datatype="html">
+        <source>
+    Receiving message from remote server.
+    <x id="INTERPOLATION" equiv-text="{{diceroll}}"/>
+    <x id="INTERPOLATION_1" equiv-text="{{messagereceived}}"/>
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4f40c84ab13b28f3196bfcf2735ace3b75328096" datatype="html">
+        <source>This is the English translation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14a2974d197e44914d92b3dbd57ae0ce923e5a1e" datatype="html">
+        <source>Hello world! Welcome!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe8d4d6498ba0539a4a406127d7f9a672ae42dba" datatype="html">
+        <source>Message one received!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e721b1b1ec9a655c609de378085b291acf15a622" datatype="html">
+        <source>Message two received!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
